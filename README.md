@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @DensMathew
-- 👀 I’m interested in Data aAalytics, Data Visalisation, Data Forcasting.
+- 👀 I’m interested in Data Analytics, Data Visalisation, Data Forcasting.
 - 🌱 I’m currently learning Master's in Big Data and Artifical Intelligence at Montpellier Business School.
 - 💞️ I’m looking to collaborate on Data Analysis, visualisation and to learn more about the usage of data in the future forcasting.
 - 📫 Can be reached via Mail LinkedIn, or GitHub.
-- 😄 Pronouns:He/Him
-- ⚡ Fun fact: Crazy about trying new things in life.
-- Hobbies: Adveture Activities, Music, Traveling 
+- 😄 Fun fact: Crazy about trying new things in life.
+- ⚡ Hobbies: Adveture Activities, Music, Traveling, Motor Sports
 
 <!---
 DensMathew/DensMathew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
